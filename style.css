@@ -1,0 +1,50 @@
+body{
+    background-image: url(./images/temp1.avif);
+    background-repeat:space;
+    background-size:cover;
+    background-position: center;
+    height:1000px;
+    
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+.name
+{
+    position:absolute;
+    text-align: center;
+    
+}
+.img
+{
+    border-radius:50%;
+    border-width: 2%;
+    height:15%;
+    width:8%;
+}
+.about
+{
+    height: 200px;
+    width:300px;
+    background-color:bisque;
+    margin-left: 600px;
+}
+
+.edu
+{
+    height: 200px;
+    width:300px;
+    background-color:azure;
+    margin-left: 600px;
+    position:relative;
+}
+
+.skill
+{
+    height: 200px;
+    width:300px;
+    background-color:blanchedalmond;
+    margin-left: 400px;
+    
+}
