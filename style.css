@@ -9,7 +9,13 @@ body{
     justify-content: center; 
     align-items: center;
 }
-
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
+a{
+    color: blue;
+}
 .name
 {
     position:absolute;
@@ -21,14 +27,14 @@ body{
     border-radius:50%;
     border-width: 2%;
     height:15%;
-    width:8%;
+    width:15%;
 }
 .about
 {
     height: 200px;
     width:300px;
     background-color:bisque;
-    margin-left: 600px;
+    margin-left: 300px;
 }
 
 .edu
@@ -45,6 +51,6 @@ body{
     height: 200px;
     width:300px;
     background-color:blanchedalmond;
-    margin-left: 400px;
+    margin-left: 300px;
     
 }
