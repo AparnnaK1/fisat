@@ -1,5 +1,5 @@
 body{
-    background-image: url(./images/temp1.avif);
+    background-image: url(./images/34.avif);
     background-repeat:space;
     background-size:cover;
     background-position: center;
@@ -13,8 +13,11 @@ h2{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color: brown;
 }
+h1{
+    color:grey;
+}
 a{
-    color: blue;
+    color:black;
 }
 .name
 {
@@ -25,6 +28,7 @@ a{
 .img
 {
     border-radius:50%;
+    border: 10px solid rgb(19, 24, 11);
     border-width: 2%;
     height:15%;
     width:15%;
@@ -33,24 +37,33 @@ a{
 {
     height: 200px;
     width:300px;
-    background-color:bisque;
-    margin-left: 300px;
+    background-color:dimgray;
+    margin-left: 500px;
+    height:160px;
+    border: 10px solid rgb(19,24,11);
 }
 
 .edu
 {
     height: 200px;
     width:300px;
-    background-color:azure;
-    margin-left: 600px;
+    background-color:dimgray;
+    margin-left: 300px;
     position:relative;
+    height:160px;
+    vertical-align: bottom;
+    line-height: 100%;
+    border: 10px solid rgb(19,24,11);
 }
 
 .skill
 {
     height: 200px;
     width:300px;
-    background-color:blanchedalmond;
-    margin-left: 300px;
+    background-color:dimgray;
+    margin-left: 100px;
+    height:160px;
+    border: 10px solid rgb(19,24,11);
+    
     
 }
