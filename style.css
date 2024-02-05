@@ -3,15 +3,15 @@ body{
     background-repeat:space;
     background-size:cover;
     background-position: center;
-    height:1000px;
+    height:1200px;
     
     display: flex;
     justify-content: center; 
     align-items: center;
 }
 h2{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: brown;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:darkgray;
 }
 h1{
     color:grey;
@@ -66,4 +66,29 @@ a{
     border: 10px solid rgb(19,24,11);
     
     
+}
+.git
+{
+    border-radius:50%;
+    border: 10px solid rgb(19, 24, 11);
+    border-width: 2%;
+    height:4%;
+    width:4%;   
+    
+}
+.insta
+{
+    border-radius:90%;
+    border: 10px solid rgb(19, 24, 11);
+    border-width: 2%;
+    height:4%;
+    width:4%;   
+}
+.link
+{
+    border-radius:90%;
+    border: 10px solid rgb(19, 24, 11);
+    border-width: 2%;
+    height:4%;
+    width:4%;   
 }
